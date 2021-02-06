@@ -38,7 +38,6 @@ public class Main {
 
 
         System.out.println("hellocommit avec GIT en logat dans TPgit1");
-        System.out.println("travail dans le repo d'origine");
         System.out.println("nb1=" + nb1);
         System.out.println("nb2=" + nb2);
         System.out.println("nb3=" + nb3);
