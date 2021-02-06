@@ -37,8 +37,8 @@ public class Main {
         int nb3 = 3;
 
 
-        System.out.println("hellocommit avec GIT en logat dans TPgit1");
-        System.out.println("travail dans la nouvelle branche");
+        System.out.println("hellocommit avec GIT en logat dans TPgit2");
+        System.out.println("travail dans le nouveau répertoire");
         System.out.println("nb1=" + nb1);
         System.out.println("nb2=" + nb2);
         System.out.println("nb3=" + nb3);
