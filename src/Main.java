@@ -36,7 +36,7 @@ public class Main {
         int nb2 = 2;
         int nb3 = 3;
 
-
+        System.out.println("modif TPgit2 dans repo distant");
         System.out.println("hellocommit avec GIT en logat dans TPgit1");
         System.out.println("nb1=" + nb1);
         System.out.println("nb2=" + nb2);
